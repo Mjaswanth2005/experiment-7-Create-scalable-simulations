@@ -310,4 +310,3 @@ public class ScalableSimulation2 {
 
 The simulation successfully executed tasks submitted by multiple users across two datacenters. Cloudlets were scheduled based on available resources and virtual machine allocation and executed accordingly.
 
-The simulation successfully executed tasks submitted by multiple users across two datacenters. Cloudlets were scheduled based on available resources and virtual machine allocation and executed accordingly.
